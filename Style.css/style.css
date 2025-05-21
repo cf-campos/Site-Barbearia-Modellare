@@ -57,7 +57,7 @@ body {
 .menu-toggle .hamburguer::before,
 .menu-toggle .hamburguer::after {
   display: block;
-  background-color: #222121;
+  background-color: #eeeaea;
   height: 3px;
   width: 100%;
   border-radius: 2px;
